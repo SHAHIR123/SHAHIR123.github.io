@@ -1,17 +1,13 @@
 
 ---
 title: "Random Forest Classifier"
-
 date: 2019-10-01
-
 tags: [data wrangling, data science, machine learning model]
-
 header:
   image:
-  
 excerpt: "data wrangling, data science, machine learning model"
-
 mathjax: "true"
+
 ---
 
 # Forest Type Classification
